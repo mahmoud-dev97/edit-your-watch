@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Orbitron", sans-serif;
+}
+#submit {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  background-color: #FFC947;
+  border-radius: 10px;
+}
+.watch {
+  font-size: 50px;
+  text-align: center;
+}
+.watch {
+  display: grid;
+  grid-template-columns: repeat(6, 50px);
+  justify-content: center;
+  justify-items: center;
+}
+.four {
+  margin-left: 100px;
+  color: #FFC947;
+  text-transform: uppercase;
+}
